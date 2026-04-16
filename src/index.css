@@ -1,9 +1,6 @@
 * {
 
-  
   box-sizing: border-box;
-
-
 }
 
 html {
@@ -68,8 +65,6 @@ button {
   padding: 0.25rem 1rem;
   border-radius: 4px;
   border: 1px solid #f8bd47;
-
-  
 
 }
 
