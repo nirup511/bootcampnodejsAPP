@@ -9,8 +9,6 @@ html {
   
 }
 
-
-
 body {
 
   background-color: #798080;
@@ -20,6 +18,10 @@ body {
 }
 
 #logo-img {
+
+
+
+
 
   width: 7rem;
   height: 7rem;
@@ -36,6 +38,9 @@ body {
 
 header img {
 
+
+
+  
   width: 4rem;
   height: 4rem;
   margin: 2rem 0;
