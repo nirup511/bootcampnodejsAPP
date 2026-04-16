@@ -4,6 +4,7 @@
 
 html {
   font-family: sans-serif;
+  
 }
 
 body {
@@ -14,6 +15,7 @@ body {
 }
 
 #logo-img {
+
   width: 7rem;
   height: 7rem;
   background-color: #3f3828;
@@ -26,6 +28,7 @@ body {
 }
 
 header img {
+
   width: 4rem;
   height: 4rem;
   margin: 2rem 0;
