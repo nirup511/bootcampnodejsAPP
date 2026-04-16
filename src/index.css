@@ -11,9 +11,6 @@ html {
 }
 
 
-
-
-
 body {
 
   background-color: #798080;
@@ -21,9 +18,6 @@ body {
   text-align: center;
 
 }
-
-
-
 
 #logo-img {
 
@@ -41,11 +35,10 @@ body {
 
 }
 
+
+
+
 header img {
-
-
-
-  
   width: 4rem;
   height: 4rem;
   margin: 2rem 0;
@@ -55,9 +48,6 @@ header img {
 
 
 main {
-
-
-  
 
   margin: 2rem auto;
   padding: 2rem;
