@@ -1,12 +1,17 @@
 * {
 
   box-sizing: border-box;
+
+  
 }
 
 
 html {
 
   font-family: sans-serif;
+
+
+
   
 }
 
@@ -16,6 +21,9 @@ body {
   background-color: #798080;
   color: #292d2d;
   text-align: center;
+
+
+
 
 }
 
