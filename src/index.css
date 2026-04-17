@@ -8,8 +8,6 @@
 
 
 
-
-
 html {
 
   font-family: sans-serif;
@@ -18,6 +16,9 @@ html {
 
   
 }
+
+
+
 
 
 body {
@@ -43,6 +44,9 @@ body {
   align-items: center;
   margin: auto;
   border: 4px solid #292d2d;
+
+
+
 
 
 }
